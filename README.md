@@ -2,11 +2,11 @@
 
 
 - 🔭 I am passionate about technology development!
-- 🌱 Systems analysis student
+- 🌱 Science of Computer Student at ISPTEC(Luanda)
 <div align="center">
-  <a href="https://github.com/Mauro301002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauro301002&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rildo691&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/Mauro-30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauro-30&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro-30&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -29,7 +29,7 @@
 ##
 <div> 
  <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rildofranco3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mauro301002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
   
